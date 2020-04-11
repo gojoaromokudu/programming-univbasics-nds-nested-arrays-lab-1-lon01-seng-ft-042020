@@ -1,4 +1,4 @@
-required "pry"
+require "pry"
 
 # Examples inspired by U. S. National Organic Standards
 
